@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'NinoMtavruli';
+    src: url('../font/BPGNinoMtavruli.eot');
+    src: url('../font/BPGNinoMtavruli.eot?#iefix') format('embedded-opentype'),
+        url('../font/BPGNinoMtavruli.woff2') format('woff2'),
+        url('../font/BPGNinoMtavruli.woff') format('woff'),
+        url('../font/BPGNinoMtavruli.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('../font/Roboto-Regular.eot');
+    src: url('../font/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Roboto-Regular.woff2') format('woff2'),
+        url('../font/Roboto-Regular.woff') format('woff'),
+        url('../font/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'IngiriArial';
+    src: url('../font/BPGIngiriArial.eot');
+    src: url('../font/BPGIngiriArial.eot?#iefix') format('embedded-opentype'),
+        url('../font/BPGIngiriArial.woff2') format('woff2'),
+        url('../font/BPGIngiriArial.woff') format('woff'),
+        url('../font/BPGIngiriArial.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

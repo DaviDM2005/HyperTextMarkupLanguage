@@ -1,0 +1,194 @@
+*{
+	box-sizing: border-box;
+}
+
+.HTML{
+	 height: 30.57px;
+	 width: 100.18px;
+	 vertical-align: middle;
+	 margin-right: 50px;
+}
+
+.Banner{
+	margin-right: 98px;
+	margin-top: 77px;
+	margin-bottom: 32px;
+	height: 460px;
+	width: 1170px;
+}
+
+.header-navigation li{
+	padding-bottom: 19px;
+	color: #3D58A6;
+	font-size: 22px;
+}
+
+li{
+	font-family: 'NinoMtavruli';
+}
+
+.header-navigation .active-page{
+	color: #EE4036;
+}
+
+.FB{
+	padding-right: 34px;
+	border-right: 2px solid #707070;
+}
+
+.YT{
+	padding-left: 30px;
+}
+
+footer{
+	padding-bottom: 29px;
+	margin-left: 98px;
+	margin-top: 69px;
+}
+
+.first-text{
+	font-size: 16px;
+}
+
+h3{
+	font-size: 20px;
+}
+
+.date .date-number{
+	font-size: 31px;
+	background-color: #3D58A6;
+	padding: 10px;
+	display: inline-block;
+	color: white;
+}
+
+.date .section-month{
+	font-family: 'NinoMtavruli';
+	font-size: 22px;
+	color: #3D58A6;
+	padding-top: 5px;
+}
+
+div{
+	padding-bottom: 21px;
+	margin-top: 53px;
+}
+
+
+span{
+	color: #808080;
+	font-size: 16px;
+}
+
+.header-navigation li{
+	display: inline-block;
+}
+
+.header-navigation{
+	display: inline-block;
+}
+
+.main-article div{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+	display: inline-block;
+	padding-left: 20px;
+}
+
+.right-div{
+	margin-left: 29px;
+}
+
+.main-article div p{
+	display: inline-block;
+	font-size: 20px;
+	width: 355px;
+	height: 143.29px;
+	font-family: 'RobotoRegular';
+	padding-left: 35px;
+	color: #333333;
+}
+
+.article-title{
+	font-size: 24px;
+	font-family: 'RobotoRegular';
+	margin-top: 116px;
+}
+
+h4{
+	color: #3D58A6;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'RobotoReagular';
+	font-size: 22px;
+}
+
+.contact-section img{
+	display: inline-block;
+}
+
+
+.contact-footer{
+	margin-top: 30px;
+	margin-left: 47px;
+}
+
+.first-text{
+	display: inline-block;
+	width: 929.02px;
+	margin-top: 21px;
+	margin-left: 40px;
+	font-family: 'IngiriArial';
+	font-size: 16px;
+}
+
+.contact-section .map{
+	width: 848.5px;
+	height: auto;
+}
+
+.contact-article{
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 2px;
+	padding-left: 96px;
+}
+
+.contact-article p{
+	font-family: 'IngiriArial';
+}
+
+.contact-section{
+	padding-top: 42px;
+	background-color: #E6E6E6;
+	width:1360px ;
+	height: 570px;
+}
+
+.map{
+	padding-left: 65px;
+}
+
+.first-image{
+	vertical-align: top;
+	padding-top: 21px;
+}
+
+header{
+	margin-left: 29px;
+	margin-top: 30px;
+}
+
+.index-main{
+	margin-left: 98px;
+}
+
+h3{
+	font-family: 'NinoMtavruli';
+}
+
+.contact-h3{
+	font-family: 'NinoMtavruli';
+	font-size: 20px;
+}
